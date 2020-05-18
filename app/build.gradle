@@ -4,11 +4,11 @@ android {
     compileSdkVersion 28
     buildToolsVersion "22.0.1"
     defaultConfig {
-        applicationId 'com.aprender.ingles'
+        applicationId 'com.aplanetbit.aprender.ingles'
         minSdkVersion 14
         targetSdkVersion 28
-        versionCode 7
-        versionName '1.7'
+        versionCode 18
+        versionName '1.8'
     }
     buildTypes {
         release {
@@ -22,7 +22,4 @@ android {
 
 dependencies {
     implementation 'com.facebook.android:audience-network-sdk:5.+'
-    compile files('libs/FlurryAnalytics_3.3.2.jar')
-    compile files('libs/AppTracker.jar')
-    compile files('libs/presage-lib-1.6.0.jar')
 }

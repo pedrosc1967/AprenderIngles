@@ -87,11 +87,8 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Gradle: __local_aars__:./app/libs/FlurryAnalytics_3.3.2.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" name="Gradle: __local_aars__:./app/libs/AppTracker.jar:unspecified@jar" level="project" />
-    <orderEntry type="library" name="Gradle: __local_aars__:./app/libs/presage-lib-1.6.0.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-annotations:25.2.0@jar" level="project" />
-    <orderEntry type="library" name="Gradle: com.facebook.android:audience-network-sdk:5.8.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.android:audience-network-sdk:5.9.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-basement:11.0.4@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-v4:25.2.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.android.support:support-fragment:25.2.0@aar" level="project" />

@@ -16,25 +16,11 @@
         <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/pre-dexed/debug/classes-e8fef481f507567df4e4c6855916fa1e266b544a.jar" />
     </item>
     <item
-        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/libs/presage-lib-1.6.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="530dc4ed5821c0cdb6af0ca173f6918f5bb20346">
-        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/pre-dexed/debug/presage-lib-1.6.0-31f4b2c74ec7be9a6625d86f924b98526e453703.jar" />
-    </item>
-    <item
         jar="/Users/pedrosantangelocalvo/Documents/Desarrollo/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
         <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-a93a60d297d336c026f1628405cc417c672326e7.jar" />
-    </item>
-    <item
-        jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/libs/AppTracker.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="8022849c9a32323fdf4f2b41d27877cf208b29d3">
-        <dex dex="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/pre-dexed/debug/AppTracker-5b1bdd8fb1dc4a2d2c4628f389ada32032e86e3e.jar" />
     </item>
     <item
         jar="/Users/pedrosantangelocalvo/StudioProjects/AprenderIngles/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
